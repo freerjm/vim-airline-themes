@@ -27,6 +27,7 @@ Currently this repository contains the following themes:
 
     * alduin
     * angr
+    * arcadia
     * atomic
     * aurora
     * ayu_light
